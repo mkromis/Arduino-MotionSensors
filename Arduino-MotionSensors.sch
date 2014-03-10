@@ -36,7 +36,7 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "Arduino Motion Sensor"
-Date "9 mar 2014"
+Date "10 mar 2014"
 Rev ""
 Comp "Mark Kromis"
 Comment1 ""
@@ -685,4 +685,27 @@ F 3 "" H 1650 1950 60  0000 C CNN
 	-1   0    0    1   
 $EndComp
 Connection ~ 1450 1950
+NoConn ~ 4850 5600
+NoConn ~ 2600 5600
+NoConn ~ 5750 2150
+NoConn ~ 3850 2750
+NoConn ~ 5750 2250
+NoConn ~ 5750 2350
+NoConn ~ 5750 2450
+NoConn ~ 5750 2550
+NoConn ~ 5750 2650
+NoConn ~ 5750 3000
+NoConn ~ 5750 3100
+NoConn ~ 5750 3200
+NoConn ~ 5750 3300
+NoConn ~ 5750 3400
+NoConn ~ 5750 3500
+NoConn ~ 5750 3750
+NoConn ~ 5750 3850
+NoConn ~ 5750 3950
+NoConn ~ 5750 4050
+NoConn ~ 5750 4150
+NoConn ~ 5750 4250
+NoConn ~ 5750 4350
+NoConn ~ 5750 4450
 $EndSCHEMATC
